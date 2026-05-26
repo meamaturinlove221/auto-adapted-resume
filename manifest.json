@@ -1,0 +1,13 @@
+{
+  "name": "auto-adapted-resume",
+  "status": "sanitized_open_source_version",
+  "contains_personal_info": false,
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "LICENSE",
+    "examples/jd_resume_alignment_table.md",
+    "examples/tailored_resume_template.md",
+    "examples/interview_prep_template.md"
+  ]
+}
