@@ -1,5 +1,7 @@
 # auto-adapted-resume
-
+<p align="center">
+  <img src="assets/auto-adapted-resume-system-architecture.png" alt="Auto Adapted Resume System Architecture" width="100%">
+</p>
 A small, evidence-first resume adaptation skill.
 
 The project provides a reusable `SKILL.md` workflow for turning a target job description into:
