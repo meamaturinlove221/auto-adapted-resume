@@ -20,7 +20,7 @@ This skill starts with: "What does the JD require, and where is the evidence in 
 ## Workflow
 
 <p align="center">
-  <img src="./auto-adapted-resume-system-architecture.png" alt="Auto Adapted Resume System Architecture" width="100%">
+  <img src="./auto-adapted-resume-system-architecture.png.png" alt="Auto Adapted Resume System Architecture" width="100%">
 </p>
 
 ## Files
