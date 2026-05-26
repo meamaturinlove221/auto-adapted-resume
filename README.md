@@ -1,7 +1,4 @@
 # auto-adapted-resume
-<p align="center">
-  <img src="assets/auto-adapted-resume-system-architecture.png" alt="Auto Adapted Resume System Architecture" width="100%">
-</p>
 A small, evidence-first resume adaptation skill.
 
 The project provides a reusable `SKILL.md` workflow for turning a target job description into:
@@ -22,15 +19,9 @@ This skill starts with: "What does the JD require, and where is the evidence in 
 
 ## Workflow
 
-```mermaid
-flowchart TD
-    A[Job description] --> B[JD parsing]
-    B --> C[Evidence matching]
-    C --> D[Gap labeling]
-    D --> E[Targeted rewrite]
-    E --> F[Interview prep]
-    F --> G[Claim-source audit]
-```
+<p align="center">
+  <img src="assets/auto-adapted-resume-system-architecture.png" alt="Auto Adapted Resume System Architecture" width="100%">
+</p>
 
 ## Files
 
